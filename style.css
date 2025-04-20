@@ -15,3 +15,16 @@ body {
     scroll-behavior: smooth;
   }
   
+  .hero-header {
+    background-image: url('images/flowers.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 80vh; 
+    position: relative;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
