@@ -84,4 +84,8 @@ body {
     margin: 0 1.5rem;
   }
 
+  nav ul li a:hover {
+    color: #b4af92;
+  }
+
 
