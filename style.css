@@ -79,4 +79,9 @@ body {
     list-style: none;
   }
 
+  nav ul li {
+    display: inline;
+    margin: 0 1.5rem;
+  }
+
 
