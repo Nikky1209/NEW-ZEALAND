@@ -52,3 +52,9 @@ body {
     letter-spacing: 5px;
   }
 
+
+  .hero-header .cta-button:hover {
+    background-color: #e64a19; 
+  }
+ 
+    
