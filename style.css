@@ -151,5 +151,14 @@ body {
     object-fit: cover;
   }
   
+  .spot h2 {
+    padding: 0.5rem 1rem 0;
+    color: #1a1a1a;
+  }
+  
+  .spot p {
+    padding: 0 1rem 1rem;
+    color: #555;
+  }
 
   
