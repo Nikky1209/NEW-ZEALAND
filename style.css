@@ -132,5 +132,13 @@ body {
     padding: 2rem;
   }
 
+  .spot {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
 
   
