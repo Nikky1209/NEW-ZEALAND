@@ -55,7 +55,7 @@ body {
   .hero-header .cta-button {
     margin-top: 2rem;
     padding: 1rem 2rem;
-    background-color: #ff5722; /* Bright CTA button */
+    background-color: #ff5722; 
     color: white;
     text-decoration: none;
     font-size: 1.2rem;
