@@ -38,3 +38,10 @@ body {
     align-items: center;
   }
   
+  .discover {
+    font-size: 3rem;
+    font-style: italic;
+    color: #ffcc00; 
+    margin-bottom: 1rem;
+  }
+
