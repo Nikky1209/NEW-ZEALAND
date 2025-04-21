@@ -45,7 +45,7 @@ body {
     margin-bottom: 1rem;
   }
 
-  .newzealand {
+  .nz {
     font-size: 5rem;
     font-weight: 800;
     color: #ffffff;
@@ -94,6 +94,12 @@ body {
   nav ul li {
     display: inline;
     margin: 0 1.5rem;
+  }
+
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
   }
 
   nav ul li a:hover {
