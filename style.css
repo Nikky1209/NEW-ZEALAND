@@ -192,3 +192,10 @@ body {
     margin-bottom: 0.5rem;
     font-weight: 700;
   }
+
+  .food-header p {
+    max-width: 700px;
+    margin: 0 auto 2.5rem;
+    color: #6a5c38;
+    font-size: 1rem;
+  }
