@@ -290,3 +290,10 @@ body {
     font-size: 1.5rem;
     text-align: center;
   }
+
+  .culture-spot p {
+    padding: 0 1rem 1rem;
+    color: #555;
+    font-size: 1rem;
+    text-align: center;
+  }
