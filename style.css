@@ -365,3 +365,9 @@ body {
 .person-card:hover {
   transform: translateY(-5px);
 }
+
+.person-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
