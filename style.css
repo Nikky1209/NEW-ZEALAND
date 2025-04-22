@@ -340,3 +340,8 @@ body {
   text-align: center;
   letter-spacing: 2px;
 }
+
+.people-header .highlight {
+  color: #fff9c4;
+  font-style: italic;
+}
