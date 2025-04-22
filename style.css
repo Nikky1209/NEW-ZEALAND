@@ -314,3 +314,12 @@ body {
 .culture-spot .video-link:hover {
   background-color: #e92a2a
 }
+
+.people-header {
+  background-image: url('images/flowers.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  position: relative;
+  color: white;
+}
