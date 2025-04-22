@@ -345,3 +345,11 @@ body {
   color: #fff9c4;
   font-style: italic;
 }
+
+.people-container {
+  padding: 3rem 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  background-color: #f7f7f7;
+}
