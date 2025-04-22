@@ -230,3 +230,9 @@ body {
     margin: 0.8rem 0 0.5rem;
     color: #2c2c2c;
   }
+
+  .food-card p {
+    padding: 0 1rem 1rem;
+    font-size: 0.95rem;
+    color: #555;
+  }
