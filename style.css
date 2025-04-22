@@ -371,3 +371,10 @@ body {
   height: 250px;
   object-fit: cover;
 }
+
+.person-card h2 {
+  padding: 1rem 1rem 0;
+  color: #1a1a1a;
+  font-size: 1.5rem;
+}
+
