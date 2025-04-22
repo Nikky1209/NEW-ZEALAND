@@ -186,3 +186,9 @@ body {
     border-top: 5px solid #e1c48e;
   }
 
+  .food-header h2 {
+    font-size: 2.3rem;
+    color: #3a2d16;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
