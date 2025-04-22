@@ -332,3 +332,11 @@ body {
   justify-content: center;
   flex-direction: column;
 }
+
+.people-header h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 2px;
+}
