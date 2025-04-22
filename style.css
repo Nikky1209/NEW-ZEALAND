@@ -206,3 +206,11 @@ body {
     gap: 2rem;
     padding: 0 1rem;
   }
+
+  .food-card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+  }
