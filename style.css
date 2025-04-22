@@ -179,4 +179,10 @@ body {
     color: #555;
   }
 
-  
+  .food-section {
+    padding: 4rem 2rem;
+    background: linear-gradient(to bottom, #fffef2, #fefae0);
+    text-align: center;
+    border-top: 5px solid #e1c48e;
+  }
+
