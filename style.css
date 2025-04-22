@@ -257,4 +257,8 @@ body {
     margin-bottom: 1rem;
   }
 
-  
+  .culture p {
+    font-size: 1.2rem;
+    color: #5f2b2b;
+    margin-bottom: 2rem;
+  }
