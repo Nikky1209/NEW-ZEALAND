@@ -244,3 +244,9 @@ body {
     padding: 2rem;
     justify-items: center; 
   }
+
+  .culture {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #f9f5fa; 
+  }
