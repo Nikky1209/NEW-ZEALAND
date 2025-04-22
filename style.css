@@ -218,3 +218,9 @@ body {
   .food-card:hover {
     transform: scale(1.02);
   }
+
+  .food-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
