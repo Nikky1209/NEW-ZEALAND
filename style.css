@@ -323,3 +323,12 @@ body {
   position: relative;
   color: white;
 }
+
+.people-header .overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
